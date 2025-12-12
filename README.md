@@ -1,2 +1,1 @@
-#Tugas Crud Mahasiswa
-#Tugas QA
+#TUGAS LENGKAP SOFTWARE QUALITY ASSURANCE (SQA)
